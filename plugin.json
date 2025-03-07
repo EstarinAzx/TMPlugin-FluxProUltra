@@ -1,5 +1,5 @@
 {
-    "uuid": "4169fdd8-8296-480e-b27b-346ecb75bc24",
+    "uuid": "a440641d-9b55-4534-bb55-ff1bf9a059c1",
     "id": "generate_image_with_flux_ultra",
     "emoji": "🧩",
     "title": "FLUX 1.1 [pro] ultra",
@@ -104,7 +104,6 @@
     "iconURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAABOCSURBVHgB7d1LjBzVvcfxf3XPw+MH+LIBiY0tLHFZ+NpsLIG5wmzCLPHNXbHAiSyxCJFIkEh2YJxdkKIgAQskFGCRFYmzNGzAiQmSN4zFApDs4CwshQ2x8WMenu5K/aqnxj2PnunuOqde5/uRRh4bHKKeOr/zP486JzIH4i++3Ws3Fp6xifYhi7v7LLbDFkd7LYr3GgAXrqRfrdacxZ2L1rJPo8ceuWI5RTamtNHfXnrR4vhY8ttjBqBoc0kn+0aeMBg5AFYbftd+QQ8PVEQUvWet7mujBsFIARB/9s2rNHygwqLoVHT04deG/teH+Zfiz7/aZ53oTPLtYQNQdVesHT81TDXQ2u5fiD//5oQtt74wGj9QF0mH3foi/us3z2z3L24ZAGnJ34nfo+QH6iZps634TNqGtzBwCJD+xTg+ZQDqbYt5gU0DIP57Ujp04zMGoBna0U+ixx5+f/0fbwiAdMJPY37KfqBBomvW7j66fmJw4xxAJ/qExg80TdKmeyt5a6wJgJUJg30GoIkOx3/76lT/H6wOAVbW+r81AA2WDAXuTO2Pntp/Tb+7WwF0W68agIZLhgITC7/IfpdWAPT+QEjuVgG9CqDL23xAOO5WARO930cvGgpxZ+6SLfz5XPprfHPekPRHu2ds8vABmzp60KafPmIoQBQ9mf5C+V8MNfYbr7ybNnwMNj17xHY+N2utB+4zeHZn+r9alP/+qfFff+lNGv8QFs9esB+SoOxSHfk3tfBMEgARb/l5Nv/+WetcumoYjj6r+Q/OGjxL2n4rWQc4ZPCm+6/vbf5P5wyjWfjwXPrZwaOou0+rAPsM3ix8dMEwnkU+O89ahwgAz5YvMu4f1zLDJs+ivdueCIR8mMwa3/JlAsCvmADwjXHs+Ngn4R8B4JEeYB7i8emzI0D9IgA8YgybH0MovwgAj+JbPLx5MQ/gFwHgETv/8mMDlV8EgEcdeq/c+Az9IgA8Yg4gPz5DvwgATzR7zQpAfqwE+EUAeMLklTtL7Kb0hgDwZOmzLw1uMBHoDwHgCWNXdwhTfwgADzRmpddyR58n8wB+EAAe3GHM6twiVYAXBIAHlKzu3eEz9YIAcEzLVkvneVhd05wK7wW4RwA4Ru/vRxqsfLbOEQCO8ZD6s8QRYc4RAA5pppry3x+9XMUwwC0CwCFm//1b5IRlpwgAh26/z1n2vnHEulsEgCNpecpmFe80Gcg5C+4QAI7owk8Ug1uD3CEAHGDyr1iqAKgC3CAAHLhNj1Q4qgA3CICc1PvrRlsUizkXNwiAnOj9y3Pzt3805EMA5EDvXy7mAvIjAHK49fYZQ7mYC8iHABiTrq5m5r98VAH5EABjYtdfdWgugHcExkMAjEGNnxno6kjnYtgiPBYCYER62Obp/StHocxBrKMjAEZ0/aU3DdXEsuDoCIARUPpXm05iZmVmNATAkPRwUfpX38KH51gVGAEBMAT1+j+88q6hHlgVGN6EYVsqK+tY+rceuM9au2esfeBBi3bNWJR8r99b8v1At+bTxtP97vvVC047NbvoVP+/byaBfc/vfm7YGgGwDY37q77hRw17Imnk7Yd6X5PJ92r8+nNXFACaZe9cvpoGwvLFS5WeddcwQEO2mROzhsGi+PzXsWFTC8na8q23qjeplDX4qaMHew3+8AErQxYKOglZwVDFsffuXz9r008fMWyOABhAk35a8qtK6atGP/XEQZv+0ZG08bvs3V1R6a2DURUIVama9DlpKKDPDBsRAJvQg6zGX4Vxv3r3medmK9voB8nCQO9MlF0Z6HPb+87L6bAIaxEA61Sh8euB3fHjJ20m+apTox9En2W6Uy8JhE5Jn6sa/71JJUAIrEUA9Cm78au313i1qWPWrCrQ5FwZQUA
     "authenticationType": "AUTH_TYPE_NONE",
     "implementationType": "javascript",
-    "oauthConfig": null,
     "outputType": "render_markdown",
     "dynamicContextEndpoints": []
 }
