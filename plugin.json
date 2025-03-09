@@ -74,32 +74,33 @@
             "description": "Generate less processed, more natural-looking images. Default is false.",
             "defaultValue": "false"
         },
-        {
-            "name": "enable_safety_checker",
-            "type": "enum",
-            "label": "Enable Safety Checker",
-            "values": [
-                "true",
-                "false"
-            ],
-            "description": "Enables or disables the safety checker to filter out potentially NSFW content. Default is true.",
-            "defaultValue": "true"
-        },
-        {
-            "name": "safety_tolerance",
-            "type": "enum",
-            "label": "Safety Tolerance",
-            "values": [
-                "1",
-                "2",
-                "3",
-                "4",
-                "5",
-                "6"
-            ],
-            "description": "The safety tolerance level for the generated image. 1 being the most strict and 6 being the most permissive. Default is 2.",
-            "defaultValue": "2"
-        }
+       {
+    "name": "enable_safety_checker",
+    "type": "enum",
+    "label": "Enable Safety Checker",
+    "values": [
+        "true",
+        "false"
+    ],
+    "description": "Enables or disables the safety checker to filter out potentially NSFW content. Default is false.",
+    "defaultValue": "false"
+},
+{
+    "name": "safety_tolerance",
+    "type": "enum",
+    "label": "Safety Tolerance",
+    "values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+    ],
+    "description": "The safety tolerance level for the generated image. 1 being the most strict and 6 being the most permissive. Default is 6.",
+    "defaultValue": "6"
+}
+
     ],
     "authenticationType": "AUTH_TYPE_NONE",
     "implementationType": "javascript",
